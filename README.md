@@ -2,7 +2,7 @@
 基于TCP的网络游戏通信框架，处理了粘包和半包问题。
 
 
-socket数据包协议
+# socket数据包协议
 
 	Sockte参数:  AddressFamily.InterNetwork
 
@@ -22,7 +22,7 @@ socket数据包协议
 
 
 
-#使用说明
+# 使用说明
 
 #### 发送网络协议
 
